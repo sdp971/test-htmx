@@ -1,0 +1,13 @@
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+button {
+  background-color: pink;
+  color: black;
+  padding: 8px;
+  width: 70px;
+}
